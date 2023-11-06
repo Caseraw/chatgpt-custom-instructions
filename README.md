@@ -34,7 +34,7 @@ git clone https://github.com/Caseraw/chatgpt-custom-instructions.git
 ```
 
 2. Browse the instructions by navigating to the relevant folders and files
-   In the [scenarios](#repository-structure) folder.
+   In the [scenarios](#scenarios) folder.
 
 ## Structure of Instructions
 Each instruction set contains:
